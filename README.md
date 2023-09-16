@@ -31,7 +31,7 @@ Hello! I'm Thales, a Data Engineer with advanced degrees in Business Analytics a
 ### **Keyrus**
 - **Data Visualization Consultancy**: Offered consultancy services related to data visualization best practices, benefiting over 50+ business users from major Brazilian companies in telecom, insurance, sports and pharmaceutical industries.
 - **Data Pipelines & Dashboards**: Developed and implemented 30+ data pipelines with Alteryx and dashboards with Tableau, streamlining data processes and enhancing visualization capabilities.
-- 
+
 ### **Five Acts**
 - **Data Warehouse Upgrades**: Contributed significantly to the upgrade of a telecom company's Data Warehouse, enhancing data storage and retrieval capabilities.
 - **SAS to Alteryx Conversion**: Successfully converted 100+ SAS procedures to Alteryx workflows, optimizing data processes for a retail company.
